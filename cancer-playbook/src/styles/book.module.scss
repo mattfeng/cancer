@@ -1,0 +1,12 @@
+@import "fonts.scss";
+
+.bookContainer {
+    h1, h2, h3, h4 {
+        font-family: $display;
+    }
+
+    p, li {
+        font-family: $serif;
+        line-height: 1.25;
+    }
+}
