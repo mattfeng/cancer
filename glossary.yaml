@@ -1,0 +1,13 @@
+- term: circulating cell free DNA
+  id: cfdna
+  abrv: cfDNA
+  defn: DNA found in blood plasma that has been released from a cell. Does not necessary come from a tumor.
+  also:
+    - ctdna
+- term: circulating tumor DNA
+  id: ctdna
+  abrv: ctDNA
+  defn: Tumor-derived cfDNA, often from tumor cells that have metastasized, found their way into the bloodstream, and died.
+  also:
+    - cfdna
+
