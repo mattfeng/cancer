@@ -1,0 +1,41 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Tumor Profiling
+
+**Tumor profiling** for cancer treatment is the process of looking at the DNA and proteins in cancer cells to learn more about the _specific causes of cancer_. The pieces of DNA and proteins analyzed are called **biomarkers**.
+
+Tumor profiling is also known as:
+
+- biomarker testing
+- tumor testing
+- tumor genetic testing
+- genomic testing
+- genomic profiling
+- molecular testing
+- molecular profiling
+- somatic testing
+- tumor subtyping
+  
+## Tumor profiling companies
+
+- [Guardant 360 CDx by Guardant Health](https://guardant360cdx.com/)
+  - liquid biopsy (blood)
+- [Caris Life Sciences](https://www.carislifesciences.com/order-a-test/#tumorTypeAnchor)
+- [Concert Genetics](https://www.concertgenetics.com/)
+  - previously known as _Foundation Medicine_
+- [Oncotype MAP Pan Cancer Tissue Test by Exact Sciences](https://www.exactsciences.com/Our-Tests/Oncotype/Oncotype-MAP-Pan-Cancer-Tissue-Test)
+  - solid biopsy
+  - previously known as _Paradigm_
+- GenomeDx Biosciences
+- Intermountain Healthcare
+- Genomic Health
+- Trovagene
+- Varientyx
+- Invitae
+- Inivata
+- Tempus xF by Tempus
+
+## Solid vs. liquid biopsies
