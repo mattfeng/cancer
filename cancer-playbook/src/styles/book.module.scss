@@ -9,4 +9,23 @@
         font-family: $serif;
         line-height: 1.25;
     }
+
+    p + ul {
+        margin-top: -0.5em;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        
+        a {
+            text-decoration: none;
+            font-style: italic;
+        }
+    }
+
+    td, th {
+        border: 1px solid lightgray;
+        padding: 2px 8px;
+    }
 }

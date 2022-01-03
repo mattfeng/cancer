@@ -10,4 +10,15 @@
   defn: Tumor-derived cfDNA, often from tumor cells that have metastasized, found their way into the bloodstream, and died.
   also:
     - cfdna
+- term: circulating tumor cells
+  id: ctf
+  abrv: CTC
+- term: molecular tumor board
+  id: mtb
+  abrv: MTB
+  defn: an entity that brings interdisciplinary expertise into the evaluation of patients who have advanced cancer to indicate when alteration-driven treatment is advisable. These multi-disciplinary teams typically include oncologists, research scientists, bioinformaticians, pathologists, medical geneticists, genetic counselors, and genomicists.
+- term: tumor mutational burden
+  id: tmb
+  abrv: TMB
+  defn: the total number of coding mutations in the tumor genome
 
