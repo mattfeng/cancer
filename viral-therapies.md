@@ -19,7 +19,7 @@
 - enveloped viruses are more likely to be cleared by the immune system
 - smaller viruses are better able to diffuse through a tumor
 - larger viruses are better able to encode therapeutic genes
-- other factors (**TODO**) [^22]
+- other factors (**TODO**) [^zheng22]
     - tumor tropism
     - potential pathogenicity
     - immunogenicity
