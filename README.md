@@ -24,7 +24,7 @@ tcga/   # understanding the data in The Cancer Genome Atlas
 5. Biomarkers of the tumor microenvironment: basic studies and practical applications (Akslen, Watnick, Randolph; AWR)
 
 ## References
-- [ ] [^target1]: [Cell-surface proteomics for the identification of novel therapeutic targets in cancer](https://www.tandfonline.com/doi/abs/10.1080/14789450.2018.1429924?journalCode=ieru20)
+[^target1]: [Cell-surface proteomics for the identification of novel therapeutic targets in cancer](https://www.tandfonline.com/doi/abs/10.1080/14789450.2018.1429924?journalCode=ieru20)
 
 ## Links
 - [Cancer Moonshot Seminar Series](https://www.youtube.com/playlist?list=PLaXJeOudgf63Kz5ZiUaYItx0JaI4_YwLL)

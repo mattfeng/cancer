@@ -1,6 +1,6 @@
 # Cancer biomarkers
 
-## Glioblastoma [^target1]
+## Glioblastoma[^target1]
 - 
 
 ## References
